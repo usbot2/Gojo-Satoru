@@ -93,7 +93,7 @@
       "3": {
         "private": {
           "type": "Buffer",
-          "data": "kLJ1xklqkZ5FJr73Lu4bN3TQyHEdn24Ty55bcOUg9U0="
+          "data "kLJ1xklqkZ5FJr73Lu4bN3TQyHEdn24Ty55bcOUg9U0="
         },
         "public": {
           "type": "Buffer",
